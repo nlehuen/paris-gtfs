@@ -1,0 +1,2 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
+la-defense,,La Défense,,48.89180828951736,2.238387765079096,,http://fr.wikipedia.org/wiki/La_D%C3%A9fense_(m%C3%A9tro_de_Paris),1,
