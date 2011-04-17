@@ -1,8 +1,8 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
 la-defense,,La Défense,,48.89180828951736,2.238387765079096,,http://fr.wikipedia.org/wiki/La_D%C3%A9fense_(m%C3%A9tro_de_Paris),1,
-la-defense/M1,,La Défense,,48.89180828951736,2.238387765079096,,http://fr.wikipedia.org/wiki/La_D%C3%A9fense_(m%C3%A9tro_de_Paris),0,la-defense
-la-defense/RA,,La Défense,,48.89180828951736,2.238387765079096,,http://fr.wikipedia.org/wiki/La_D%C3%A9fense_(m%C3%A9tro_de_Paris),0,la-defense
-la-defense/T2,,La Défense,,48.89180828951736,2.238387765079096,,http://fr.wikipedia.org/wiki/La_D%C3%A9fense_(m%C3%A9tro_de_Paris),0,la-defense
+la-defense/M1,,La Défense,,48.89180828951736,2.238387765079096,,,0,la-defense
+la-defense/RA,,La Défense,,48.89180828951736,2.238387765079096,,,0,la-defense
+la-defense/T2,,La Défense,,48.89180828951736,2.238387765079096,,,0,la-defense
 esplanade-de-la-defense,,Esplanade de la Défense,,48.88853658492965,2.250354092157565,,,,
 pont-de-neuilly,,Pont de Neuilly,,48.88446552319155,2.260446864822256,,,,
 les-sablons,,Les Sablons,,48.88075349244649,2.27206316534884,,,,

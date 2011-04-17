@@ -1,5 +1,5 @@
 trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_type
-M1-1,05:30:00,05:30:00,la-defense/M1,1,0,0
+M1-1,00:00:00,00:00:00,la-defense/M1,1,0,0
 M1-1,,,esplanade-de-la-defense,2,0,0
 M1-1,,,pont-de-neuilly,3,0,0
 M1-1,,,les-sablons,4,0,0
@@ -23,8 +23,8 @@ M1-1,,,nation,21,0,0
 M1-1,,,porte-de-vincennes,22,0,0
 M1-1,,,saint-mande,23,0,0
 M1-1,,,berault,24,0,0
-M1-1,06:30:00,06:30:00,chateau-de-vincennes,25,0,0
-M1-2,05:30:00,05:30:00,chateau-de-vincennes,0,0,0
+M1-1,01:00:00,01:00:00,chateau-de-vincennes,25,0,0
+M1-2,00:00:00,00:00:00,chateau-de-vincennes,0,0,0
 M1-2,,,berault,1,0,0
 M1-2,,,saint-mande,2,0,0
 M1-2,,,porte-de-vincennes,3,0,0
@@ -48,4 +48,4 @@ M1-2,,,porte-maillot/M1,20,0,0
 M1-2,,,les-sablons,21,0,0
 M1-2,,,pont-de-neuilly,22,0,0
 M1-2,,,esplanade-de-la-defense,23,0,0
-M1-2,06:30:00,06:30:00,la-defense/M1,24,0,0
+M1-2,01:00:00,01:00:00,la-defense/M1,24,0,0
