@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
+RATP,RATP,http://www.ratp.fr,Europe/Paris,,fr
+SNCF,SNCF,http://www.sncf.fr,Europe/Paris,,fr
+OPTILE,OPTILE,http://www.optile.com/,Europe/Paris,,fr
