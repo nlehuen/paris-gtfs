@@ -1,9 +1,9 @@
 trip_id,arrival_time,departure_time,stop_id,stop_sequence,pickup_type,drop_off_type
-M1-1,05:30:00,05:30:00,la-defense,1,0,0
+M1-1,05:30:00,05:30:00,la-defense/M1,1,0,0
 M1-1,,,esplanade-de-la-defense,2,0,0
 M1-1,,,pont-de-neuilly,3,0,0
 M1-1,,,les-sablons,4,0,0
-M1-1,,,porte-maillot,5,0,0
+M1-1,,,porte-maillot/M1,5,0,0
 M1-1,,,argentine,6,0,0
 M1-1,,,charles-de-gaulle-etoile,7,0,0
 M1-1,,,george-v,8,0,0
@@ -44,8 +44,8 @@ M1-2,,,franklin-d-roosevelt,16,0,0
 M1-2,,,george-v,17,0,0
 M1-2,,,charles-de-gaulle-etoile,18,0,0
 M1-2,,,argentine,19,0,0
-M1-2,,,porte-maillot,20,0,0
+M1-2,,,porte-maillot/M1,20,0,0
 M1-2,,,les-sablons,21,0,0
 M1-2,,,pont-de-neuilly,22,0,0
 M1-2,,,esplanade-de-la-defense,23,0,0
-M1-2,06:30:00,06:30:00,la-defense,24,0,0
+M1-2,06:30:00,06:30:00,la-defense/M1,24,0,0

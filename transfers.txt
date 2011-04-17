@@ -1,0 +1,7 @@
+from_stop_id,to_stop_id,transfer_type,min_transfer_time
+la-defense/M1,la-defense/RA,2,300
+la-defense/RA,la-defense/M1,2,300
+la-defense/M1,la-defense/T2,2,300
+la-defense/T2,la-defense/M1,2,300
+la-defense/T2,la-defense/RA,2,300
+la-defense/RA,la-defense/T2,2,300
