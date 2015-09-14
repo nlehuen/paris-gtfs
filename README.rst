@@ -2,6 +2,8 @@
 Paris GTFS Data Set
 ===================
 
+**Good news everyone!** This project is no longer needed. See `the official RATP GTFS files <http://data.ratp.fr/explore/dataset/offre-transport-de-la-ratp-format-gtfs/?tab=metas>`_.
+
 This project aims to provide an open source data set for Paris public transport.
 
 Done
